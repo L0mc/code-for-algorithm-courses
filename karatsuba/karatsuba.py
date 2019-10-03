@@ -1,5 +1,5 @@
 import math
-# karatsuba乘法函数
+# karatsuba
 def karatsuba(input1,input2):
     if (input1==0) or (input2==0) : 
         return 0
